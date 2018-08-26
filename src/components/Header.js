@@ -1,14 +1,14 @@
 import React from 'react'
 import Link from 'gatsby-link'
 
-import logo from '../assets/images/logo.svg';
+import logo from '../assets/images/logo.png';
 
 const Header = (props) => (
     <header id="header" className="alt">
-        <span className="logo"><img src={logo} alt="" /></span>
-        <h1>Stellar</h1>
-        <p>Just another free, fully responsive site template<br />
-        design by <a href="https://html5up.net">HTML5 UP</a>.</p>
+        <span className="logo"><img width="200px"src={logo} alt="" /></span>
+        <h1>Boost Tecnologia</h1>
+        <p>Acelere a tecnologia na sua empresa<br />
+        </p>
     </header>
 )
 
