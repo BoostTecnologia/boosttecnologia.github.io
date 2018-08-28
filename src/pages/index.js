@@ -45,10 +45,10 @@ class Index extends React.Component {
             <div className="spotlight">
               <div className="content">
                 <header className="major">
-                  <h2>A Boost Tecnólogia</h2>
+                  <h2>A Boost tecnologia</h2>
                 </header>
                 <p> É uma Empresa jr da Engenharia da Computação da Universidade do Estado de Minas Gerais(UEMG) da unidade de Divinópolis.
-                    Ela tem o intuito de desenvolver atividades de consultoria e desenvolvimento tecnóligo para empresas afins.
+                    Ela tem o intuito de desenvolver atividades de consultoria e desenvolvimento tecnológico para empresas afins.
                 </p>  
               </div>
               <span className="image"><img src={pic01} alt="" /></span>
@@ -63,12 +63,12 @@ class Index extends React.Component {
               <li>
                 <span className="icon major style1 fa-code"></span>
                 <h3>Missão</h3>
-                <p>Ensinar, Aprender e Produzir tecnólogia com seguraça e qualidade.</p>
+                <p>Ensinar, Aprender e Produzir tecnologia com seguraça e qualidade.</p>
               </li>
               <li>
                 <span className="icon major style3 fa-map"></span>
                 <h3>Visão</h3>
-                <p>Atuar no mercado de Divinópolis e Região com Desenvolvimento de Produtos relacionados a tecnólogia.</p>
+                <p>Atuar no mercado de Divinópolis e Região com Desenvolvimento de Produtos relacionados a tecnologia.</p>
               </li>
               <li>
                 <span className="icon major style5 fa-diamond"></span>
